@@ -1,0 +1,20 @@
+body{height: 100%;}
+
+.fondo {
+    background-image: url(../images/michael-dziedzic-gEN5Btvf2Eg-unsplash.jpg);
+    height:100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+.fondo-1{
+    background-image: url(../images/mapa.JPG);
+    height:100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+i{
+    color: #000000;
+    font-size: 32px;
+}
